@@ -1,3 +1,3 @@
 # yakında
 
-## allah gibi bisey bak bu
+### allah gibi bisey bak bu
