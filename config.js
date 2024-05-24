@@ -1,0 +1,47 @@
+module.exports = {
+    // Basic configuration
+    token: '', // Buraya tokenınızı yerleştirin
+    status: 'StarProject v1.1',
+    developerGuildID: '1141337596207829012', // Buraya Guild ID'nizi yerleştirin
+    database: 'mongodb+srv://sharey1332:sharey1332@sharey1332.wc7bvco.mongodb.net/', // Buraya MongoDB erişiminizi yerleştirin
+
+    // Ticket configuration 
+    ticketName: 'bilet-',
+    ticketDescription: '🌿 Tarafından açılan bilet',
+    ticketCreate: '✅ Biletiniz oluşturuldu',
+    ticketButtonCreated: 'Bileti görüntüle',
+    ticketButtonCreatedEmoji: '👀',
+    ticketAlreadyExist: 'Üzgünüz, zaten açık bir biletiniz var.',
+    ticketNoPermissions: 'Üzgünüz, bunu yapmak için izniniz yok.',
+    ticketError: 'Bir şeyler yanlış gitti, daha sonra tekrar deneyin.',
+    ticketMessageTitle: 'Hoş geldiniz, bilet açtığınız için teşekkür ederiz.',
+    ticketMessageDescription: 'Moderasyon ekibimizden biri yakında talebinizle ilgilenecektir.\\nSabırlı ve iyi bir ruh haliyle beklediğiniz için teşekkür ederiz.',
+    ticketClose: 'Kapat',
+    ticketCloseEmoji: '📪',
+    ticketLock: 'Kilit',
+    ticketLockEmoji: '🔒',
+    ticketUnlock: 'Kilit Aç',
+    ticketUnlockEmoji: '🔓',
+    ticketClaim: 'Sahiplen',
+    ticketClaimEmoji: '👋',
+    ticketManage: 'Üyeler',
+    ticketManageEmoji: '➕',
+    ticketManageMenuTitle: 'Bir üye seçin.',
+    ticketManageMenuEmoji: '❔',
+    ticketCloseTitle: 'Bilet şu anda kapatılıyor...',
+    ticketCloseDescription: 'Bilet 5 saniye içinde kapatılacak.',
+    ticketSuccessLocked: 'Bilet başarıyla kilitlendi.',
+    ticketAlreadyLocked: 'Bu bilet zaten kilitli.',
+    ticketSuccessUnlocked: 'Bilet başarıyla kilidi açıldı.',
+    ticketAlreadyUnlocked: 'Bu bilet zaten kilitsiz.',
+    ticketSuccessClaim: 'Bilet başarıyla sahiplenildi',
+    ticketAlreadyClaim: 'Bilet zaten sahiplenilmiş',
+    ticketDescriptionClaim: ', tarafından sahiplenildi',
+    ticketTranscriptMember: 'Üye:',
+    ticketTranscriptTicket: 'Bilet:',
+    ticketTranscriptClaimed: 'Sahiplenildi:',
+    ticketTranscriptModerator: 'Moderatör:',
+    ticketTranscriptTime: 'Zaman:',
+    ticketMemberAdd: 'bilete eklendi.',
+    ticketMemberRemove: 'biletten çıkarıldı.',
+}
