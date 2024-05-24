@@ -35,6 +35,7 @@ Updates will be done very frequently so do not hesitate to put a star to stay in
 This bot was made by a guy named Noam. I just made the language of the bot and the English languages in the code for my Turkish friends. İyi kullanmanız dileğiyle
 
 Made with ❤️ by Noam.
+Translated into Turkish ❤️ by Sharey.
 
 
 
