@@ -32,7 +32,7 @@ Updates will be done very frequently so do not hesitate to put a star to stay in
 
 ## shwrey's note
 
-This bot was made by a guy named Noam. I just made the language of the bot and the English languages in the code for my Turkish friends. İyi kullanmanız dileğiyle
+This bot was made by a guy named Noam. I just made the language of the bot and the English languages in the code Turkish for my Turkish friends. İyi günlerde kullanmanızı dilerim.
 
 Made with ❤️ by Noam.
 
