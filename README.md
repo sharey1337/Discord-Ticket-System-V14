@@ -19,7 +19,22 @@
 
 
 
+## The modules necessary for the proper functioning of the script.
 
+``discord.js``
+``discord-html-transcripts``
+``mongoose``
+``@colors/colors``
+``axios``
+
+## How to configure the bot ?
+
+
+1. For start you must take you're token, guildID, and database informations and put everything in the file ``config.js``.
+2. Enter ``npm install`` into your terminal.
+3. Press F5 or enter ``node main.js``.
+4. Enter the command ``/ticket`` in a channel to setup the bot.
+5. Enjoy :)
 
 ## Authors
 
