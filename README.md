@@ -49,7 +49,8 @@ Updates will be done very frequently so do not hesitate to put a star to stay in
 
 This bot was made by a guy named Noam. I just made the language of the bot and the English languages in the code Turkish for my Turkish friends. İyi günlerde kullanmanızı dilerim.
 
-## [Here is the current and unchanged version of the project!](https://github.com/Noaaam/discord-v14-bot-ticketSystem)
+## Main project
+[Here is the current and unchanged version of the project!](https://github.com/Noaaam/discord-v14-bot-ticketSystem)
 
 Made with ❤️ by Noam.
 
