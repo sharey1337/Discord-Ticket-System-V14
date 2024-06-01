@@ -55,7 +55,7 @@ This bot was made by a guy named Noam. I just made the language of the bot and t
 ## Noam
 Made with ❤️ by Noam.
 
-
+## Translated
 Translated into Turkish by Sharey.
 
 
