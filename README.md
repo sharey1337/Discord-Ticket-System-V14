@@ -40,8 +40,6 @@
 
 * **✨ | Noam.** _alias_ [@Noaaam](https://github.com/Noaaam)
 
-## [Here is the current and unchanged version of the project!](https://github.com/Noaaam/discord-v14-bot-ticketSystem)
-
 ## About the project
 
 Updates will be done very frequently so do not hesitate to put a star to stay informed, this project has been created for the new person intersted for code.
@@ -50,6 +48,8 @@ Updates will be done very frequently so do not hesitate to put a star to stay in
 ## shwrey's note
 
 This bot was made by a guy named Noam. I just made the language of the bot and the English languages in the code Turkish for my Turkish friends. İyi günlerde kullanmanızı dilerim.
+
+## [Here is the current and unchanged version of the project!](https://github.com/Noaaam/discord-v14-bot-ticketSystem)
 
 Made with ❤️ by Noam.
 
