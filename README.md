@@ -52,6 +52,7 @@ This bot was made by a guy named Noam. I just made the language of the bot and t
 ## Main project
 [Here is the current and unchanged version of the project!](https://github.com/Noaaam/discord-v14-bot-ticketSystem)
 
+## Noam
 Made with ❤️ by Noam.
 
 
